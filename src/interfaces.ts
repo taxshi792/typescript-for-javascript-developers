@@ -24,6 +24,7 @@ interface ObjectInterface {
 }
 
 let object3: ObjectInterface = {
+    // name: "nakatsugawa",
     name: "nakatsugawa",
     age: 43
 }
