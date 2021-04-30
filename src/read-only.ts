@@ -5,8 +5,11 @@ class VisaCard {
     // constructor (owner: string) {
     //     this.owner = owner
     // }
+    // ↓省略
+    // constructor (public readonly owner: string) {
+    // }
+    // ↓省略
     constructor (readonly owner: string) {
-        
     }
 
 }
